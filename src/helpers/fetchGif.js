@@ -1,4 +1,4 @@
-const apiKey = 'woAtBatY6emhh7hpLPmpiF2i2vQRH5W1'
+const apiKey = process.env.REACT_API_KEY;
 const limite = 10
 export const getImage = async (category) => {
     try {
