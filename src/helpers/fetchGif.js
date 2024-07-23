@@ -1,4 +1,4 @@
-const apiKey = 'OW1cwZrAS1KEUZEwaa1TBmpIF7uCgkFH'
+const apiKey = 'woAtBatY6emhh7hpLPmpiF2i2vQRH5W1'
 const limite = 10
 export const getImage = async (category) => {
     try {
